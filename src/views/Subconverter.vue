@@ -479,7 +479,6 @@ export default {
         },
         customBackend: {
           "自建默认后端【vless reality+anytls】": "https://subtest.zeabur.app",
-          "肥羊增强型后端【vless reality+anytls】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+anytls】": "https://sub.d1.mk",
         },
         backendOptions: [
@@ -1416,6 +1415,7 @@ export default {
   }
 };
 </script>
+
 
 
 
